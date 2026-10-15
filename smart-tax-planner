@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Initial commit - Smart Tax Planner with ML"
+git branch -M main
+git remote add origin [https://github.com/YOUR_USERNAME/smart-tax-planner.git](https://github.com/YOUR_USERNAME/smart-tax-planner.git)
+git push -u origin main
